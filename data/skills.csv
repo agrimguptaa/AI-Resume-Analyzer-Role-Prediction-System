@@ -1,0 +1,97 @@
+skill,category
+python,Programming
+java,Programming
+javascript,Programming
+c++,Programming
+c#,Programming
+r,Programming
+go,Programming
+rust,Programming
+kotlin,Programming
+swift,Programming
+typescript,Programming
+php,Programming
+ruby,Programming
+scala,Programming
+html,Web Development
+css,Web Development
+react,Web Development
+angular,Web Development
+vue,Web Development
+node.js,Web Development
+flask,Web Development
+django,Web Development
+fastapi,Web Development
+bootstrap,Web Development
+tailwind,Web Development
+rest api,Web Development
+graphql,Web Development
+spring boot,Web Development
+express.js,Web Development
+machine learning,AI/ML
+deep learning,AI/ML
+natural language processing,AI/ML
+computer vision,AI/ML
+tensorflow,AI/ML
+pytorch,AI/ML
+keras,AI/ML
+scikit-learn,AI/ML
+opencv,AI/ML
+nlp,AI/ML
+bert,AI/ML
+gpt,AI/ML
+hugging face,AI/ML
+pandas,Data Science
+numpy,Data Science
+matplotlib,Data Science
+seaborn,Data Science
+tableau,Data Science
+power bi,Data Science
+data analysis,Data Science
+data visualization,Data Science
+statistics,Data Science
+sql,Database
+mysql,Database
+postgresql,Database
+mongodb,Database
+sqlite,Database
+oracle,Database
+redis,Database
+firebase,Database
+nosql,Database
+aws,Cloud & DevOps
+azure,Cloud & DevOps
+gcp,Cloud & DevOps
+docker,Cloud & DevOps
+kubernetes,Cloud & DevOps
+git,Cloud & DevOps
+github,Cloud & DevOps
+ci/cd,Cloud & DevOps
+linux,Cloud & DevOps
+bash,Cloud & DevOps
+jenkins,Cloud & DevOps
+terraform,Cloud & DevOps
+android,Mobile
+ios,Mobile
+flutter,Mobile
+react native,Mobile
+xml,Mobile
+agile,Soft Skills
+scrum,Soft Skills
+problem solving,Soft Skills
+communication,Soft Skills
+teamwork,Soft Skills
+leadership,Soft Skills
+time management,Soft Skills
+critical thinking,Soft Skills
+project management,Soft Skills
+selenium,Testing
+junit,Testing
+pytest,Testing
+unit testing,Testing
+postman,Testing
+jira,Tools
+vs code,Tools
+figma,Tools
+photoshop,Tools
+excel,Tools
